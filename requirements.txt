@@ -3,6 +3,6 @@ pandas
 numpy
 matplotlib
 seaborn
-scikit-learn
-imbalanced-learn
+scikit-learn==1.4.2
+imbalanced-learn==0.12.3
 shap
