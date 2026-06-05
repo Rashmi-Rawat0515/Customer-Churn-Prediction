@@ -3,11 +3,5 @@ pandas
 numpy
 matplotlib
 seaborn
-<<<<<<< HEAD
 scikit-learn
 shap
-=======
-scikit-learn>=1.3.0
-imbalanced-learn
-shap
->>>>>>> 6e5df538cd95cedef06748ce369ac3f8bdf6f2c1
